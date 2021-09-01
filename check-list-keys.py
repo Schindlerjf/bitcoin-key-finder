@@ -84,9 +84,9 @@ def check_balance(address):
                 sleep(WARN_WAIT_TIME)
 
 #Add the filename of your list of Bitcoin Addresses for check all.
-with open(r'C:\Users\Jonnys\Desktop\Programação Python\Check-Bitcoin\list-keys.txt') as file:
+with open(r'list-keys.txt') as file:
     for line in file:
-            arq1 = open(r'C:\Users\Jonnys\Desktop\Programação Python\Check-Bitcoin\resultado.txt', 'a')
+            arq1 = open(r'resultado.txt', 'a')
             address = str.strip(line)
             print ("__________________________________________________\n")
             
