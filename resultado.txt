@@ -1,0 +1,7 @@
+Bitcoin Address: 16ftSEQ4ctQFDtVZiUBusQUjRrGhM3JYwe	 Balance: 0.02863697 Bitcoin
+
+Bitcoin Address: 16ftSEQ4ctQFDtVZiUBusQUjRrGhM3JYwe	 Balance: 0.02863697 Bitcoin
+Bitcoin Address: 3D2oetdNuZUqQHPJmcMDDHYoqkyNVsFk9r	 Balance: 0.04194249 Bitcoin
+Bitcoin Address: 16rCmCmbuWDhPjWTrpQGaU3EPdZF7MTdUk	 Balance: 0.00015551 Bitcoin
+Bitcoin Address: 3Cbq7aT1tY8kMxWLbitaG7yT6bPbKChq64	 Balance: 0.16929881 Bitcoin
+Bitcoin Address: 3Nxwenay9Z8Lc9JBiywExpnEFiLp6Afp8v	 Balance: 0.00905205 Bitcoin
